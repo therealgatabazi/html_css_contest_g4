@@ -1,0 +1,41 @@
+html {
+    background-image: url(/images/india-kasim-bazar-12-road-cossimbazar-near-india-black.jpg);
+    background-size: cover;
+    
+}
+
+main {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 200px;
+    border-radius: 10px;
+    margin: 100px;
+
+   
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+    position: absolute;
+    bottom: 0;
+    
+}
+
+.Button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
