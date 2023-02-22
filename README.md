@@ -13,4 +13,4 @@
 <img width="960" alt="challenge_2" src="https://user-images.githubusercontent.com/109439888/220584373-0169ce33-9335-4c38-b8af-858f39df5aef.png">
 
 _that's a screenshot of our Group members working on the project from a google meeting_
-y'all thanks for your amazing contributions :smile:
+> y'all thanks for your amazing contributions :smile:
